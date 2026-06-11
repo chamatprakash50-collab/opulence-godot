@@ -1,0 +1,20 @@
+[gd_project]
+
+config_version=5
+run/main_scene="res://scenes/MainMenu.tscn"
+config/project_name="Opulence - The India Property Game"
+config/features=PackedStringArray("4.1")
+config/icon="res://icon.svg"
+
+[application]
+
+config/name="Opulence"
+run/main_scene="res://scenes/MainMenu.tscn"
+config/quit_on_go_back=false
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep_size"
